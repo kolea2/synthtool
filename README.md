@@ -10,7 +10,7 @@ pyenv to get 3.6.
 Install using pip:
 
 ```
-python3 -m pip install --upgrade synthtool
+python3 -m pip install --upgrade gcp-synthtool
 ```
 
 ## Basic usage
