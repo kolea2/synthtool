@@ -7,11 +7,10 @@ This tool helps to generate and layout cloud client libraries.
 This tool requires Python 3.6. Either install it from python.org or use
 pyenv to get 3.6.
 
+Install using pip:
 
 ```
-git clone sso://devrel/cloud/libraries/tools/synthtool
-cd synthtool
-pip install .
+python3 -m pip install --upgrade synthtool
 ```
 
 ## Basic usage
