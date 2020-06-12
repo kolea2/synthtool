@@ -27,3 +27,4 @@ code differs.
 
 Autosynth and Synthtool communicate with each other via a file protocol
 described [here](./synthtool/protos/README.md).
+
